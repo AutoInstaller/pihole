@@ -124,6 +124,6 @@ fi
 if [ "$opt1" = "5" ]; then
   echo "Here is our GitHub page:"
   echo ""
-  echo "https://github.com/X19S/ai-pihole"
+  echo "https://github.com/AutoInstaller/pihole"
   echo ""
 fi
